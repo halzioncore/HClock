@@ -18,7 +18,7 @@
     "@tauri-apps/plugin-notification": "^2.3.3",
     "@tauri-apps/plugin-opener": "^2",
     "dompurify": "^3.4.13",
-    "lucide-react": "^1.30.0",
+    "lucide-react": "^1.31.0",
     "marked": "^18.0.9",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
